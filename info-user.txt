@@ -1,4 +1,4 @@
 Nom : lisser
 Nom de la machine: srv-lisser
 username : admin_lisser
-mdp : azerty@abdsarmai
+mdp : abdsarmai@94
